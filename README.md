@@ -46,13 +46,3 @@ To run the program:
 - Syed Afnan (30224)  
 - Faraz Ahmed (30503)
 
----
-
-## Purpose
-
-This project was developed as a group assignment to demonstrate:
-
-- Search algorithms
-- Heuristic design
-- State-space representation
-- Problem-solving strategies in Artificial Intelligence
