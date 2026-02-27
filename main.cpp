@@ -7,7 +7,6 @@
 #include "AStar.h"
 
 int BoardSize;
-HeuristicType currentHeuristic = BASIC;
 
 int main() {
 
@@ -20,11 +19,10 @@ int main() {
         initial.QueenPosition.push_back({0,col});
 
    
-    if(BoardSize < 7){    
+    if(BoardSize < 6){    
          BFS(initial);
         UCS(initial);
     }
-    currentHeuristic = BASIC;
     AStar(initial);
     return 0;
 
