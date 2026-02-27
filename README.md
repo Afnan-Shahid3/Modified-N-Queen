@@ -8,7 +8,6 @@ This project implements a modified version of the N-Queen problem using multiple
 - Uniform Cost Search (UCS)
 - A* Search
 - Basic Heuristic
-- Improved Heuristic
 
 In this modified version, all queens are initially placed in the starting row.  
 The goal is to move the queens to a state where no two queens attack each other.
