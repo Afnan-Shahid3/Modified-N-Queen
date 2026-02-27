@@ -37,7 +37,7 @@ To run the program:
 - `BFS.h` – Breadth-First Search
 - `UCS.h` – Uniform Cost Search
 - `AStar.h` – A* Search
-- `Heuristics.h` – Heuristic functions
+- `Heuristics.h` – Heuristic function
 
 ---
 
